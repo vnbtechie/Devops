@@ -51,3 +51,27 @@ clear
 
 .
 cd ..
+git status
+ll
+ls -lal
+cat file
+cat file2
+vim file2
+git add file2
+git commit -m "this is my third commit"
+git commit -m "this is my third commit" file2
+git add file
+git commit -m "coimmit second" file
+ls -al
+git status
+git log file
+gi log .
+git log .
+git log file2
+git status
+commit -m "all" .
+gitcommit -m "all" .
+git commit -m "all" .
+git add .
+git commit -m "all" .
+git log .
