@@ -100,3 +100,26 @@ git init
 vim file1
 ll
 git log
+git init
+git status
+git add file3
+git status
+git commit -m "fourth commit" file3
+git add .
+git status
+git commit -m "final " .
+git status
+clear
+git stats
+git status
+git log
+clear
+git remote add 
+git remote add origin https://github.com/vnbtechie/Devops.git
+ll
+git push -u origin master
+clear
+git remote add origin https://github.com/vnbtechie/Devops.githttps://github.com/vnbtechie/Devops.git
+exit
+git status
+yum update
