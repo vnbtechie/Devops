@@ -75,3 +75,28 @@ git commit -m "all" .
 git add .
 git commit -m "all" .
 git log .
+lls
+ll
+git commit -m "all" .
+git status
+git log .
+git status
+git add remote origin 
+pwd
+exit
+yum install git -y
+ll
+ls -al
+git status
+git log .
+yum install git -y
+git ..version
+ll
+ls -al
+git init
+git log
+git ..version
+git init
+vim file1
+ll
+git log
